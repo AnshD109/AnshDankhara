@@ -44,9 +44,25 @@ skills:
     "Data Cleaning",
     "Business Intelligence"
   ]
-currently_learning: ["SAP", "Cloud Data", "Advanced Visualization"]
-2024_goals: ["Build Advanced Dashboards", "Create Open-Source Projects"]
-hobbies: ["Gaming", "Cinema", "Exploring", "Expeditions", "Comedy"]
+currently_learning:
+  [
+     "SAP",
+     "Cloud Data",
+     "Advanced Visualization"
+  ]
+2024_goals:
+  [
+      "Build Advanced Dashboards",
+      "Create Open-Source Projects"
+  ]
+hobbies:
+  [
+       "Gaming",
+       "Cinema",
+       "Exploring",
+       "Expeditions",
+       "travelling"
+  ]
 ```
 <!-- Skills Section with Beautiful Icons -->
 <br>
