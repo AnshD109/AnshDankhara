@@ -25,7 +25,7 @@
 
 ---
 
-<h4 align="center">📜 About Me 📜</h4>
+<p align="center">📜 About Me 📜</p>
 
 ```yaml
 name: Ansh Dankhara
