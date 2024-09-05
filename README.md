@@ -1,55 +1,72 @@
-<!-- Header with Waving Effect -->
-<!-- GitHub Stats & Dynamic Cards --> 
-<h2> 📊 &nbsp;GitHub Stats</h2> <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=anshdankhara&show_icons=true&theme=radical" alt="GitHub Stats" /> </p> <p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=anshdankhara&theme=radical" alt="GitHub Streak" /> </p> <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anshdankhara&layout=compact&theme=radical" alt="Top Languages" /> </p>
+<!-- Header with Gradient Waving Effect -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8e44ad,100:3498db&height=100&section=header&text=Welcome!&fontSize=40&fontColor=ffffff"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e90ff,100:ff6347&height=150&section=header&text=Welcome!%20I'm%20Ansh%20Dankhara&fontSize=40&fontColor=ffffff&fontAlignY=35"/>
 </p>
 
-<!-- Main Heading -->
-<h1 align="center">
-  Hi there! I'm Ansh Dankhara 👋
-</h1>
-
-<!-- Social Media Links -->
+<!-- Animated Intro Text -->
 <p align="center">
-<a href="https://www.linkedin.com/in/anshdankhara">
-  <img height="50" src="https://user-images.githubusercontent.com/46517096/166973395-19676cd8-f8ec-4abf-83ff-da8243505b82.png"/>
-</a>
-<a href="https://www.instagram.com/ansh.__.1074/">
-  <img height="50" src="https://user-images.githubusercontent.com/46517096/166974368-9798f39f-1f46-499c-b14e-81f0a3f83a06.png"/>
-</a>
-<a href="mailto:ansh.bm.109@gmail.com">
-  <img height="50" src="https://img.icons8.com/clouds/50/000000/gmail.png"/>
-</a>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=00FFFF&center=true&vCenter=true&width=650&lines=|+Data+Analyst+|;|+Data+Science+Enthusiast+|;|+PowerBI+Developer+|;|+Passionate+About+Data+|;Welcome+to+My+GitHub!" alt="Typing SVG" />
+</p>
+
+
+
+<!-- Social Media Icons -->
+<p align="center">
+  <a href="https://www.linkedin.com/in/anshdankhara">
+    <img src="https://img.icons8.com/color/48/000000/linkedin-circled.png" alt="LinkedIn" width="40" height="40"/>
+  </a>
+  <a href="https://www.instagram.com/ansh.__.1074/">
+    <img src="https://img.icons8.com/fluency/48/000000/instagram-new.png" alt="Instagram" width="40" height="40"/>
+  </a>
+  <a href="mailto:anshdankhara@email.com">
+    <img src="https://img.icons8.com/fluency/48/000000/gmail-new.png" alt="Gmail" width="40" height="40"/>
+  </a>
 </p>
 
 ---
 
-<!-- About Me Section -->
-<h2> 👨🏻‍💻 &nbsp;About Me</h2>
+<h1 align="center">📜 About Me 📜</h1>
 
 ```yaml
 name: Ansh Dankhara
-location: Surat, Gujarat
+location: Surat, Gujarat, India
 education:
   [
     "BSc in Information Technology",
-    "Self-Taught Data Analyst and PowerBI Developer",
+    "Self-Taught Data Analyst",
+    "PowerBI Developer",
   ]
-fields_of_interests:
+skills:
   [
-    "Data Analysis",
+    "Data Analysis", 
     "Data Science",
     "Dashboard Development",
     "Data Cleaning",
-    "Business Insights",
+    "Business Intelligence"
   ]
-projects:
-  [
-    "Indian Parliamentary Election Insights",
-    "T20 World Cup 2022 Report",
-    "Global Superstore Analysis",
-  ]
-currently_learning: ["SAP", "Cloud Data", "Visualization"]
-2024_goals: ["Create Diverse Dashboards and Reports"]
+currently_learning: ["SAP", "Cloud Data", "Advanced Visualization"]
+2024_goals: ["Build Advanced Dashboards", "Create Open-Source Projects"]
 hobbies: ["Gaming", "Cinema", "Exploring", "Expeditions", "Comedy"]
+```
+<!-- Skills Section with Beautiful Icons -->
+<br>
+<h2 align="center"> 🚀 &nbsp;Some Tools I Have Used and Learned</h2>
+<br>
+<p align="center">
+<img src="https://github.com/microsoft/PowerBI-Icons/blob/main/PNG/Power-BI.png" alt="PowerBI" width="45" height="45"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original-wordmark.svg" alt="python" width="45" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="cLang" width="45" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="45" height="45"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="45" height="45" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="html" width="45" height="45"/>
+<img src="https://exchange.tableau.com/_next/image?url=https%3A%2F%2Fgalleryapi.tableau.com%2Fproductfiles%2F1022%2FTableau%20logo.png&w=128&q=75" alt="Tableau" width="45" height="45"/>
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTCpCB6Du8H6Lrm5WIbDcdW59uqoSiL-eeTlw&s" alt="Pandas" width="45" height="45" />
+<img src="https://static-00.iconduck.com/assets.00/file-type-numpy-icon-1901x2048-oulkqypt.png" alt="Numpy" width="45" height="45" />
+<img src="https://clipart-library.com/img1/861427.png" alt="Excel" width="45" height="45/"
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="mongodb" width="45" height="45" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="45" height="45" />
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+</p>
