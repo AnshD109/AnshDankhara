@@ -46,22 +46,22 @@ skills:
   ]
 currently_learning:
   [
-     "SAP",
-     "Cloud Data",
-     "Advanced Visualization"
+    "SAP",
+    "Cloud Data",
+    "Advanced Visualization"
   ]
 2024_goals:
   [
-      "Build Advanced Dashboards",
-      "Create Open-Source Projects"
+    "Build Advanced Dashboards",
+    "Create Open-Source Projects"
   ]
 hobbies:
   [
-       "Gaming",
-       "Cinema",
-       "Exploring",
-       "Expeditions",
-       "travelling"
+    "Gaming",
+    "Cinema",
+    "Exploring",
+    "Expeditions",
+    "travelling"
   ]
 ```
 <!-- Skills Section with Beautiful Icons -->
