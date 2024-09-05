@@ -25,7 +25,7 @@
 
 ---
 
-<h1 align="center">📜 About Me 📜</h1>
+<h4 align="center">📜 About Me 📜</h4>
 
 ```yaml
 name: Ansh Dankhara
@@ -50,7 +50,7 @@ hobbies: ["Gaming", "Cinema", "Exploring", "Expeditions", "Comedy"]
 ```
 <!-- Skills Section with Beautiful Icons -->
 <br>
-<h2 align="center"> 🚀 &nbsp;Some Tools I Have Used and Learned</h2>
+<h4 align="center"> 🚀 &nbsp;Some Tools I Have Used and Learned</h4>
 <br>
 <p align="center">
 <img src="https://github.com/microsoft/PowerBI-Icons/blob/main/PNG/Power-BI.png" alt="PowerBI" width="45" height="45"/>
