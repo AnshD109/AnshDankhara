@@ -1,4 +1,6 @@
 <!-- Header with Waving Effect -->
+<!-- GitHub Stats & Dynamic Cards --> 
+<h2> 📊 &nbsp;GitHub Stats</h2> <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=anshdankhara&show_icons=true&theme=radical" alt="GitHub Stats" /> </p> <p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=anshdankhara&theme=radical" alt="GitHub Streak" /> </p> <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anshdankhara&layout=compact&theme=radical" alt="Top Languages" /> </p>
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8e44ad,100:3498db&height=100&section=header&text=Welcome!&fontSize=40&fontColor=ffffff"/>
 </p>
