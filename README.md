@@ -12,7 +12,7 @@
 
 <!-- Social Media Icons -->
 <p align="center">
-  <a href="https://www.linkedin.com/in/anshdankhara">
+  <a href="https://www.linkedin.com/in/ansh-dankhara-852a62326/">
     <img src="https://img.icons8.com/color/48/000000/linkedin-circled.png" alt="LinkedIn" width="40" height="40"/>
   </a>
   <a href="https://www.instagram.com/ansh.__.1074/">
