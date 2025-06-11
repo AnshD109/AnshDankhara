@@ -29,7 +29,7 @@
 
 ```yaml
 name: Ansh Dankhara
-location: Surat, Gujarat, India
+location: Berlin, Germany
 education:
   [
     "BSc in Information Technology",
