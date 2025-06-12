@@ -58,7 +58,6 @@ currently_learning:
 hobbies:
   [
     "Gaming",
-    "Cinema",
     "Exploring",
     "Expeditions",
     "travelling"
