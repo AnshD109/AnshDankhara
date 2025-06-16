@@ -59,7 +59,6 @@ hobbies:
   [
     "Exploring",
     "Expeditions",
-    "travelling"
   ]
 ```
 <!-- Skills Section with Beautiful Icons -->
