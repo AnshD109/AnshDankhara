@@ -50,7 +50,7 @@ currently_learning:
     "Cloud Data",
     "Advanced Visualization"
   ]
-2024_goals:
+2025_goals:
   [
     "Build Advanced Dashboards",
     "Create Open-Source Projects"
