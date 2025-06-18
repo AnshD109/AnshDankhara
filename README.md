@@ -46,7 +46,6 @@ skills:
   ]
 currently_learning:
   [
-    "SAP",
     "Cloud Data",
     "Advanced Visualization"
   ]
