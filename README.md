@@ -56,7 +56,6 @@ currently_learning:
   ]
 hobbies:
   [
-    "Exploring",
     "Expeditions",
   ]
 ```
