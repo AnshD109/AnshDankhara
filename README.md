@@ -52,7 +52,6 @@ currently_learning:
 2025_goals:
   [
     "Build Advanced Dashboards",
-    "Create Open-Source Projects"
   ]
 hobbies:
   [
