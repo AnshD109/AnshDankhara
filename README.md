@@ -33,7 +33,6 @@ location: Berlin, Germany
 education:
   [
     "BSc in Information Technology",
-    "Self-Taught Data Analyst",
     "PowerBI Developer",
   ]
 skills:
