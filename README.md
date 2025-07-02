@@ -40,7 +40,6 @@ skills:
     "Data Analysis", 
     "Data Science",
     "Dashboard Development",
-    "Data Cleaning",
     "Business Intelligence"
   ]
 currently_learning:
