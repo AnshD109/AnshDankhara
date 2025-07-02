@@ -18,7 +18,7 @@
   <a href="https://www.instagram.com/ansh.__.1074/">
     <img src="https://img.icons8.com/fluency/48/000000/instagram-new.png" alt="Instagram" width="40" height="40"/>
   </a>
-  <a href="mailto:ansh.bm.109@gmail.com">
+  <a href="mailto:ansh.bm.1074@gmail.com">
     <img src="https://img.icons8.com/fluency/48/000000/gmail-new.png" alt="Gmail" width="40" height="40"/>
   </a>
 </p>
