@@ -39,7 +39,6 @@ skills:
   [
     "Data Analysis", 
     "Data Science",
-    "Dashboard Development",
     "Business Intelligence"
   ]
 currently_learning:
