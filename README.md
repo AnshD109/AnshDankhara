@@ -38,7 +38,7 @@ skills:
   [
     "Data Analysis", 
     "Data Science",
-    "Business Intelligenc"
+    "Business Intelligen"
   ]
 currently_learning:
   [
