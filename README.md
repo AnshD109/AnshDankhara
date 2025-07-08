@@ -54,7 +54,7 @@ hobbies:
     "Expeditions",
   ]
 ```
-<!-- Skills Section with Beautiful Icons -->
+<!-- Skills Section with Beautiful Icon -->
 <br>
 <h4 align="center"> 🚀 &nbsp;Some Tools I Have Used and Learned</h4>
 <br>
