@@ -1,4 +1,4 @@
-<!--Header with Gradient Waving Effect -->
+<!-- Header with Gradient Waving Effect -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e90ff,100:ff6347&height=150&section=header&text=Welcome!%20I'm%20Ansh%20Dankhara&fontSize=40&fontColor=ffffff&fontAlignY=35"/>
 </p>
