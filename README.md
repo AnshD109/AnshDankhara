@@ -3,7 +3,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e90ff,100:ff6347&height=150&section=header&text=Welcome!%20I'm%20Ansh%20Dankhara&fontSize=40&fontColor=ffffff&fontAlignY=35"/>
 </p>
 
-<!--  Animated Intro Text -->
+<!-- Animated Intro Text -->
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=00FFFF&center=true&vCenter=true&width=650&lines=|+Data+Analyst+|;|+Data+Science+Enthusiast+|;|+PowerBI+Developer+|;|+Passionate+About+Data+|;Welcome+to+My+GitHub!" alt="Typing SVG" />
 </p>
