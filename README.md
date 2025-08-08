@@ -30,35 +30,47 @@
 ```yaml
 name: Ansh Dankhara
 location: Berlin, Germany
+
+# Data scientist & ML enthusiast passionate about building real-world solutions from data.
+
+summary: |
+  Turning complex data into actionable insights with machine learning, cloud analytics, and AI. Always learning, always building.
+
 education:
-  [
-    "BSc in Information Technology",
-  ]
+  - BSc in Information Technology
+
 skills:
-  [
-    "Generative AI and LLMs", 
-    "Data Science",
-    "MLOps and Model Deployment"
-  ]
+  - Generative AI and LLMs
+  - Data Science & Analytics
+  - MLOps and Model Deployment
+  - Predictive Modeling & Automation
+
 currently_learning:
-  [
-    "Cloud Data",
-    "Advanced Visualization"
-  ]
+  - Cloud Data Engineering
+  - Advanced Visualization
+  - Generative AI (LLMs, Diffusion Models)
+  - MLOps best practices
+
 2025-2026_goals:
-  [
-    "Build and deploy impactful machine learning solutions",
-    "Apply cloud analytics to solve real-world problems",
-    "Predictive modeling, automation, and data-driven decision making"
-  ]
+  - Build and deploy impactful machine learning solutions
+  - Apply cloud analytics to solve real-world problems
+  - Publish insights and tutorials to help the data community
+  - Contribute to open-source AI/data science projects
+  - Mentor aspiring data scientists
+
+certifications:
+  - Google Advanced Data Analytics (in progress)
+  - Microsoft Certified: Data Analyst Associate
+
+key_projects:
+  - Real-Time Credit Card Fraud Detection using ML
+  - Power BI Dashboards for Business Insights
+
 hobbies:
-  [
-    "Data storytelling",
-    "Visualizing real-world data",
-    "Playing Chess",
-    "Watching Movie",
-    "Exploring World"
-  ]
+  - Data storytelling & visualization
+  - Kaggle competitions
+  - Exploring new AI research
+
 ```
 <!-- Skills Section with Beautiful Icon -->
 <br>
