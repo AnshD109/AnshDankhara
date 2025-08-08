@@ -63,10 +63,6 @@ currently_learning:
   - Contribute to open-source AI/data science projects
   - Mentor aspiring data scientists
 
-certifications:
-  - Google Advanced Data Analytics (in progress)
-  - Microsoft Certified: Data Analyst Associate
-
 key_projects:
   - Real-Time Credit Card Fraud Detection using ML
   - Power BI Dashboards for Business Insights
