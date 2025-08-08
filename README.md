@@ -36,22 +36,28 @@ education:
   ]
 skills:
   [
-    "Data Analysis", 
+    "Generative AI and LLMs", 
     "Data Science",
-    "Business Intelignce"
+    "MLOps and Model Deployment"
   ]
 currently_learning:
   [
     "Cloud Data",
     "Advanced Visualization"
   ]
-2025_goals:
+2025-2026_goals:
   [
-    "Build Advanced Dashboards",
+    "Build and deploy impactful machine learning solutions",
+    "Apply cloud analytics to solve real-world problems",
+    "Predictive modeling, automation, and data-driven decision making"
   ]
 hobbies:
   [
-    "Expeditions",
+    "Data storytelling",
+    "Visualizing real-world data",
+    "Playing Chess",
+    "Watching Movie",
+    "Exploring World"
   ]
 ```
 <!-- Skills Section with Beautiful Icon -->
@@ -67,7 +73,6 @@ hobbies:
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="html" width="45" height="45"/>
 <img src="https://exchange.tableau.com/_next/image?url=https%3A%2F%2Fgalleryapi.tableau.com%2Fproductfiles%2F1022%2FTableau%20logo.png&w=128&q=75" alt="Tableau" width="45" height="45"/>
 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTCpCB6Du8H6Lrm5WIbDcdW59uqoSiL-eeTlw&s" alt="Pandas" width="45" height="45" />
-<img src="https://static-00.iconduck.com/assets.00/file-type-numpy-icon-1901x2048-oulkqypt.png" alt="Numpy" width="45" height="45" />
 <img src="https://clipart-library.com/img1/861427.png" alt="Excel" width="45" height="45/"
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="mongodb" width="45" height="45" />
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="45" height="45" />
