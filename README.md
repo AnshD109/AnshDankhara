@@ -27,6 +27,7 @@
 
 <p align="center">📜 About Me 📜</p>
 
+```yml
 name: Ansh Dankhara
 location: Berlin, Germany
 
@@ -69,7 +70,7 @@ hobbies:
   - Data storytelling & visualization
   - Kaggle competitions
   - Exploring new AI research
-
+```
 <!-- Skills Section with Beautiful Icon -->
 <br>
 <h4 align="center"> 🚀 &nbsp;Some Tools I Have Used and Learned</h4>
