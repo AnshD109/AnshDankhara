@@ -31,13 +31,18 @@
 name: Ansh Dankhara
 location: Berlin, Germany
 
-# Data scientist & ML enthusiast passionate about building real-world solutions from data.
-
-summary: |
-  Turning complex data into actionable insights with machine learning, cloud analytics, and AI. Always learning, always building.
+summary: Turning complex data into actionable insights with machine learning, cloud analytics, and AI. Always learning, always building.
 
 education:
   - BSc in Information Technology
+      university: GLS University, 2021-2024 (India)
+      achievements:
+        - Graduated with Distinction (1.58)
+        - Thesis: Real-Time Credit Card Fraud Detection using ML
+  - MSc in Data Science
+      university: University of Europe for Applied Sciences, 2025-2027 (Germany)
+      Certifications: Data Engeneering (Amazon Web Service)
+                      Data Science Bootcamp (geekforcegeek)
 
 skills:
   - Generative AI and LLMs
